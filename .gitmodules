@@ -1,3 +1,6 @@
 [submodule "src/PostMeteion"]
 	path = src/PostMeteion
 	url = git@github.com:gamous/PostMeteion.git
+[submodule "src/FishNotify"]
+	path = src/FishNotify
+	url = git@github.com:gamous/FishNotify.git

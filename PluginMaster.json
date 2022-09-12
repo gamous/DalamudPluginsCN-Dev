@@ -1,0 +1,46 @@
+[
+    {
+      "Author": "gamous",
+      "Name": "PostMeteion",
+      "InternalName": "PostMeteion",
+      "AssemblyVersion": "1.0.0.0",
+      "Description":  "Meteion would deliver the command to process which you post to her by httpapi. And sometimes, she will sing the endsong for you. Goodluck~ Warrior of Light.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/gamous/PostMeteion",
+      "Tags": [
+        "httpapi",
+        "plugin",
+        "command"
+      ],
+      "DalamudApiLevel": 7,
+      "LoadPriority": 0,
+      "Punchline": "Meteion will process the command you post and report information.",
+      "DownloadLinkInstall": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": "1662970852"
+  },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Fish Notify",
+    "InternalName": "FishNotify",
+    "AssemblyVersion": "4.0.0.0",
+    "Description": "Plays a sound when a fish is caught, depending on tug-strength",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/carvelli/Fish-Notify",
+    "Tags": [
+        "fishing"
+    ],
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "Punchline": "Plays a sound when a fish is caught",
+    "DownloadLinkInstall": "https://github.com/gamous/FishNotify/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/FishNotify/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/FishNotify/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1662970852"
+  }
+]
