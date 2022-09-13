@@ -42,5 +42,29 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1662970852"
+  },
+
+  {
+    "Author": "akira0245",
+    "Name": "Radar",
+    "InternalName": "Radar",
+    "AssemblyVersion": "2.0.1.1",
+    "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "overlay",
+        "hunt",
+        "akira"
+    ],
+    "DalamudApiLevel": 6,
+    "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
+    "Punchline": "Displays game objects location on screen and map.",
+    "DownloadLinkInstall": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/dist/Radar/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/dist/Radar/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/dist/Radar/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
