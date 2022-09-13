@@ -4,3 +4,6 @@
 [submodule "src/FishNotify"]
 	path = src/FishNotify
 	url = git@github.com:gamous/FishNotify.git
+[submodule "src/SunderingWorld"]
+	path = src/SunderingWorld
+	url = git@github.com:LittleNightmare/SunderingWorld.git

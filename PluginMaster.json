@@ -4,7 +4,7 @@
       "Name": "PostMeteion",
       "InternalName": "PostMeteion",
       "AssemblyVersion": "1.0.0.0",
-      "Description":  "Meteion would deliver the command to process which you post to her by httpapi. And sometimes, she will sing the endsong for you. Goodluck~ Warrior of Light.",
+      "Description":  "梅蒂恩会执行光呆的指令并汇报成果，通过HttpApi与Webhook",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/gamous/PostMeteion",
       "Tags": [
@@ -27,7 +27,7 @@
     "Name": "Fish Notify",
     "InternalName": "FishNotify",
     "AssemblyVersion": "4.0.0.0",
-    "Description": "Plays a sound when a fish is caught, depending on tug-strength",
+    "Description": "钓鱼咬钩时根据咬钩力度播放声音，同时聊天框提醒",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/carvelli/Fish-Notify",
     "Tags": [
@@ -43,13 +43,32 @@
     "IsTestingExclusive": false,
     "LastUpdated": "1662970852"
   },
-
+  {
+    "Author": "LittleNightmare",
+    "Name": "SunderingWorld",
+    "Punchline": "[beta]处理国区服务器问题",
+    "Description": "[beta]这是一个提供兼容性的插件\n这个插件用来解决其他插件无法正常检查服务器列表的问题\n此插件会修改一些数据，需要重启游戏恢复",
+    "InternalName": "SunderingWorld",
+    "AssemblyVersion": "0.0.0.4",
+    "DalamudApiLevel": 6,
+    "RepoUrl": "https://github.com/LittleNightmare/SunderingWorld",
+    "ApplicableVersion": "any",
+    "Tags": [],
+    "Changelog": "- 0.0.0.3: 增加版本检查，防止跨大区开启时，插件仍然启动",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1661977481,
+    "DownloadCount": 30,
+    "DownloadLinkInstall": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip",
+    "DownloadLinkTesting": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip",
+    "DownloadLinkUpdate": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip"
+  },
   {
     "Author": "akira0245",
     "Name": "Radar",
     "InternalName": "Radar",
     "AssemblyVersion": "2.0.1.1",
-    "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.",
+    "Description": "在屏幕和游戏地图上显示游戏实体的位置。\nDisplays game objects location on screen and map.",
     "ApplicableVersion": "any",
     "Tags": [
         "overlay",
