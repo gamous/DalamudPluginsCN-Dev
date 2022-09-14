@@ -1,6 +1,6 @@
 # DalamudPluginsCN-Dev
 
-适用于国服的Dalamud第三方插件仓库
+适用于国服的Dalamud第三方插件仓库 `dalamud-api6 net5.0-windows`
 
 本仓库仅存储非主库插件，若有插件移入国服主库后会进行移除
 
@@ -28,12 +28,13 @@
 
 ### 测试仓库 
 
-| 插件名称                                                     | 介绍                               | 插件作者                                              | 本地化维护                                            |
-| ------------------------------------------------------------ | ---------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| [PostMeteion](https://github.com/gamous/PostMeteion)         | 梅蒂恩会执行光呆的指令并汇报成果   | [gamous](https://github.com/gamous)                   | [gamous](https://github.com/gamous)                   |
-| [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒   | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous)                   |
-| [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息 | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous)                   |
-| [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                 | [LittleNightmare](https://github.com/LittleNightmare) | [LittleNightmare](https://github.com/LittleNightmare) |
+| 插件名称                                                     | 介绍                               | 插件作者                                              | 本地化维护                          |
+| ------------------------------------------------------------ | ---------------------------------- | ----------------------------------------------------- | ----------------------------------- |
+| [PostMeteion](https://github.com/gamous/PostMeteion)         | 梅蒂恩会执行光呆的指令并汇报成果   | [gamous](https://github.com/gamous)                   | x                                   |
+| [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒   | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous) |
+| [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息 | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous) |
+| [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 查找购买道具的地点                 | [electr0sheep](https://github.com/electr0sheep)       | [gamous](https://github.com/gamous) |
+| [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                 | [LittleNightmare](https://github.com/LittleNightmare) | x                                   |
 
 ### 稳定仓库 
 
@@ -70,6 +71,8 @@
 | DataCenter为空（国服World表存在错误） | 添加[Utils4CN](https://github.com/AsterOcclu/FFXIV_RpToolboxCN/tree/master/RoleplayersToolbox/Utils4CN)库，初始化时修改World表 | 忽略，绑定使用[SunderingWorld](https://github.com/LittleNightmare/SunderingWorld)插件 |
 | 未提供源码                            | 使用[ILSPY](https://github.com/icsharpcode/ILSpy)逆向生成C#源码导出并手动完善修复 | 找插件开发者py源码                                           |
 | ...                                   |                                                              |                                                              |
+
+
 
 ### 待完成任务清单 Todo
 

@@ -10,3 +10,6 @@
 [submodule "src/PriceInsight"]
 	path = src/PriceInsight
 	url = git@github.com:gamous/PriceInsight.git
+[submodule "src/ItemVendorLocation"]
+	path = src/ItemVendorLocation
+	url = git@github.com:gamous/ItemVendorLocation.git
