@@ -34,6 +34,7 @@
 | [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒   | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous)                          |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息 | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous)                          |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 查找购买道具的地点                 | [electr0sheep](https://github.com/electr0sheep)       | [NukoOoOoOoO](https://github.com/NukoOoOoOoO/ItemVendorLocation/tree/CN) |
+| [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接   | [Asvel](https://github.com/Asvel)                     | x                                                            |
 | [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                 | [LittleNightmare](https://github.com/LittleNightmare) | x                                                            |
 
 ### 稳定仓库 

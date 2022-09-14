@@ -117,7 +117,26 @@
     "IsTestingExclusive": false,
     "LastUpdated": "1662970852"
   },
-  
+  {
+    "Author": "Asvel",
+    "Name": "Literal Map Link",
+    "InternalName": "LiteralMapLink",
+    "Punchline": "将地图坐标文本自动转换为地图链接",
+    "Description": "在聊天框发送地图坐标文本时会自动转换为可点击的地图链接\nTurn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
+    "Tags": ["Chat", "Utility"],
+    "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+    "AssemblyVersion": "1.1.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": ["social", "utility"],
+    "LastUpdate": "1660114520",
+    "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
+    "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
+    "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip"
+  },
   {
     "Author": "akira0245",
     "Name": "Radar",

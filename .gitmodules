@@ -13,3 +13,6 @@
 [submodule "src/ItemVendorLocation"]
 	path = src/ItemVendorLocation
 	url = git@github.com:gamous/ItemVendorLocation.git
+[submodule "src/LiteralMapLink"]
+	path = src/LiteralMapLink
+	url = git@github.com:Asvel/ffxiv-literal-map-link.git
