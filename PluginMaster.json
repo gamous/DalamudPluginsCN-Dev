@@ -99,7 +99,7 @@
     "Name": "Item Vendor Location",
     "InternalName": "ItemVendorLocation",
     "AssemblyVersion": "0.0.0.5",
-    "Description":  "在右键菜单中添加按钮用于查找可出售该道具杂货商人",
+    "Description":  "在右键菜单中添加按钮用于查找该道具的杂货商人",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
     "Tags": [
