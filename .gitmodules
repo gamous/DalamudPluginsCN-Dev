@@ -7,3 +7,6 @@
 [submodule "src/SunderingWorld"]
 	path = src/SunderingWorld
 	url = git@github.com:LittleNightmare/SunderingWorld.git
+[submodule "src/PriceInsight"]
+	path = src/PriceInsight
+	url = git@github.com:gamous/PriceInsight.git

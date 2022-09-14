@@ -12,7 +12,7 @@
         "plugin",
         "command"
       ],
-      "DalamudApiLevel": 7,
+      "DalamudApiLevel": 6,
       "LoadPriority": 0,
       "Punchline": "Meteion will process the command you post and report information.",
       "DownloadLinkInstall": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
@@ -33,7 +33,7 @@
     "Tags": [
         "fishing"
     ],
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Plays a sound when a fish is caught",
     "DownloadLinkInstall": "https://github.com/gamous/FishNotify/releases/latest/download/latest.zip",
@@ -63,6 +63,38 @@
     "DownloadLinkTesting": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip",
     "DownloadLinkUpdate": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip"
   },
+  {
+    "Author": "Kouzukii",
+    "Name": "Price Insight",
+    "InternalName": "PriceInsight",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "在物品弹出帮助上显示市场板价格信息\nSee item marketboard prices on hover!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
+    "Tags": [
+        "marketboard",
+        "items",
+        "price"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "CategoryTags": [
+        "ui",
+        "utility"
+    ],
+    "ImageUrls": [
+        "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
+    "LastUpdate": "1639252441",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/plugins/PriceInsight/latest.zip"
+  },
+
   {
     "Author": "akira0245",
     "Name": "Radar",
