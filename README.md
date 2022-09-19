@@ -1,8 +1,8 @@
 # DalamudPluginsCN-Dev
 
-适用于国服的Dalamud第三方插件仓库 `dalamud-api6 net5.0-windows`
+适用于国服的Dalamud第三方插件仓库 **`dalamud-api6 net5.0-windows`**
 
-本仓库仅存储非主库插件，若有插件移入国服主库后会进行移除
+本仓库仅存储非主库插件以及未适配的主库测试插件，若有插件移入国服主库后会进行移除
 
 若插件无法使用，请查看 Dalamud Console（使用`/xllog`打开）中报错并提交 issue
 
@@ -32,6 +32,7 @@
 | ------------------------------------------------------------ | ---------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [PostMeteion](https://github.com/gamous/PostMeteion)         | 梅蒂恩会执行光呆的指令并汇报成果   | [gamous](https://github.com/gamous)                   | x                                                            |
 | [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒   | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous)                          |
+| [Browsingway](https://github.com/gamous/Browsingway)         | 游戏内浏览器悬浮窗显示             | [Styr1x](https://github.com/Styr1x)                   | [gamous](https://github.com/gamous)                          |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息 | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous)                          |
 | [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 查找购买道具的地点                 | [electr0sheep](https://github.com/electr0sheep)       | [NukoOoOoOoO](https://github.com/NukoOoOoOoO/ItemVendorLocation/tree/CN) |
 | [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接   | [Asvel](https://github.com/Asvel)                     | x                                                            |
@@ -51,15 +52,13 @@
 - 先提交源码子仓模块内的更新
 - 编译插件并发布到插件源码仓内的Release内
 - 确认源码子仓模块均与远程完成同步（commit id一致）
-- 更新 `PluginMaster.json ` 与 `README.md`（仅全新添加时）
+- 更新 `PluginMaster.json ` 与 `README.md`
 - 提交更新
 
 ### 提交到稳定仓
 
 - 添加打包好的插件到 `dist` 下的子目录
-- 更新 `PluginMaster.json ` 与 `README.md`（仅全新添加时）
-
-
+- 更新 `PluginMaster.json ` 与 `README.md`
 
 ### 常见本地化问题 Faq
 

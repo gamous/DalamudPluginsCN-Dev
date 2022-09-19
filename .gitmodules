@@ -16,3 +16,6 @@
 [submodule "src/LiteralMapLink"]
 	path = src/LiteralMapLink
 	url = git@github.com:Asvel/ffxiv-literal-map-link.git
+[submodule "src/Browsingway"]
+	path = src/Browsingway
+	url = git@github.com:gamous/Browsingway.git

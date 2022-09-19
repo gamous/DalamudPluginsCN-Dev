@@ -138,6 +138,33 @@
     "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip"
   },
   {
+    "Author": "Styr1x",
+    "Name": "Browsingway",
+    "InternalName": "Browsingway",
+    "Punchline": "游戏内浏览器悬浮窗",
+    "AssemblyVersion": "1.0.0.8",
+    "Description": "可以用于在游戏内显示 ACT Overlays 或任意网页\nRenders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Styr1x/Browsingway",
+    "Tags": [
+      "framework",
+      "browser",
+      "inlay",
+      "overlay",
+      "chromium",
+      "act"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/gamous/Browsingway/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/Browsingway/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/Browsingway/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1663607736"
+  },
+
+  {
     "Author": "akira0245",
     "Name": "Radar",
     "InternalName": "Radar",
