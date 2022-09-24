@@ -19,3 +19,6 @@
 [submodule "src/Browsingway"]
 	path = src/Browsingway
 	url = git@github.com:gamous/Browsingway.git
+[submodule "src/BDTHPlugin"]
+	path = src/BDTHPlugin
+	url = git@github.com:gamous/BDTHPlugin.git

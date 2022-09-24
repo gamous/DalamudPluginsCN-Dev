@@ -118,6 +118,34 @@
     "LastUpdated": "1662970852"
   },
   {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.5.7.1",
+    "Description": "允许通过坐标轴移动家具并解除摆放限制",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/gamous/BDTHPlugin/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/BDTHPlugin/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/BDTHPlugin/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1664036705"
+  }
+  ,
+  {
     "Author": "Asvel",
     "Name": "Literal Map Link",
     "InternalName": "LiteralMapLink",
