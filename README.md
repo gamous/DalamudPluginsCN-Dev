@@ -28,16 +28,15 @@
 
 ### 测试仓库 
 
-| 插件名称                                                     | 介绍                                 | 插件作者                                              | 本地化维护                                                   |
-| ------------------------------------------------------------ | ------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [PostMeteion](https://github.com/gamous/PostMeteion)         | 梅蒂恩会执行光呆的指令并汇报成果     | [gamous](https://github.com/gamous)                   | x                                                            |
-| [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒     | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous)                          |
-| [Browsingway](https://github.com/gamous/Browsingway)         | 游戏内浏览器悬浮窗显示               | [Styr1x](https://github.com/Styr1x)                   | [gamous](https://github.com/gamous)                          |
-| [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息   | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous)                          |
-| [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)        | 允许通过坐标轴移动家具并解除摆放限制 | [LeonBlade](https://github.com/LeonBlade)             | [gamous](https://github.com/gamous)                          |
-| [ItemVendorLocation](https://github.com/electr0sheep/ItemVendorLocation) | 查找购买道具的地点                   | [electr0sheep](https://github.com/electr0sheep)       | [NukoOoOoOoO](https://github.com/NukoOoOoOoO/ItemVendorLocation/tree/CN) |
-| [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接     | [Asvel](https://github.com/Asvel)                     | x                                                            |
-| [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                   | [LittleNightmare](https://github.com/LittleNightmare) | x                                                            |
+| 插件名称                                                     | 介绍                                 | 插件作者                                              | 本地化维护                          |
+| ------------------------------------------------------------ | ------------------------------------ | ----------------------------------------------------- | ----------------------------------- |
+| [PostMeteion](https://github.com/gamous/PostMeteion)         | 梅蒂恩会执行光呆的指令并汇报成果     | [gamous](https://github.com/gamous)                   | x                                   |
+| [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒     | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous) |
+| [Browsingway](https://github.com/gamous/Browsingway)         | 游戏内浏览器悬浮窗显示               | [Styr1x](https://github.com/Styr1x)                   | [gamous](https://github.com/gamous) |
+| [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息   | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous) |
+| [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)        | 允许通过坐标轴移动家具并解除摆放限制 | [LeonBlade](https://github.com/LeonBlade)             | [gamous](https://github.com/gamous) |
+| [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接     | [Asvel](https://github.com/Asvel)                     | x                                   |
+| [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                   | [LittleNightmare](https://github.com/LittleNightmare) | x                                   |
 
 注：BrowsingWay.Render 若报错 `You must install update to run this application` ， 需要安装 [.net 5.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/5.0)。
 

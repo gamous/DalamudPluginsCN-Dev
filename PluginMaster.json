@@ -95,29 +95,6 @@
     "DownloadLinkUpdate": "https://github.com/gamous/PriceInsight/releases/latest/download/latest.zip"
   },
   {
-    "Author": "electr0sheep",
-    "Name": "Item Vendor Location",
-    "InternalName": "ItemVendorLocation",
-    "AssemblyVersion": "0.0.0.5",
-    "Description":  "在右键菜单中添加按钮用于查找该道具的杂货商人",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/electr0sheep/ItemVendorLocation",
-    "Tags": [
-      "vendor",
-      "plugin",
-      "item"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "查找购买道具的地点",
-    "DownloadLinkInstall": "https://github.com/gamous/ItemVendorLocation/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/ItemVendorLocation/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/ItemVendorLocation/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdated": "1662970852"
-  },
-  {
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
     "InternalName": "BDTHPlugin",
