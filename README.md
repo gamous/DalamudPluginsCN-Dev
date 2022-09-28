@@ -35,10 +35,9 @@
 | [Browsingway](https://github.com/gamous/Browsingway)         | 游戏内浏览器悬浮窗显示               | [Styr1x](https://github.com/Styr1x)                   | [gamous](https://github.com/gamous) |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息   | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous) |
 | [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)        | 允许通过坐标轴移动家具并解除摆放限制 | [LeonBlade](https://github.com/LeonBlade)             | [gamous](https://github.com/gamous) |
+| [GatherBuddy](https://github.com/Ottermandias/GatherBuddy)   | 改善采集与钓鱼体验                   | [Ottermandias](https://github.com/Ottermandias)       | [gamous](https://github.com/gamous) |
 | [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接     | [Asvel](https://github.com/Asvel)                     | x                                   |
 | [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                   | [LittleNightmare](https://github.com/LittleNightmare) | x                                   |
-
-注：BrowsingWay.Render 若报错 `You must install update to run this application` ， 需要安装 [.net 5.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/5.0)。
 
 ### 稳定仓库 
 

@@ -22,3 +22,6 @@
 [submodule "src/BDTHPlugin"]
 	path = src/BDTHPlugin
 	url = git@github.com:gamous/BDTHPlugin.git
+[submodule "src/GatherBuddy"]
+	path = src/GatherBuddy
+	url = git@github.com:gamous/GatherBuddy.git

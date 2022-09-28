@@ -120,8 +120,35 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1664036705"
-  }
-  ,
+  },
+  {
+    "Author": "Ottermandias",
+    "Name": "GatherBuddy",
+    "InternalName": "GatherBuddy",
+    "AssemblyVersion": "3.1.6.3",
+    "Description": "添加可以通过物品名称查找采集点的命令来简化采集，并提供一个UI来持续追踪可采集时间窗口与天气条件。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
+    "Tags": [
+      "Gathering",
+      "Fishing",
+      "Miner",
+      "Botanist",
+      "Weather",
+      "Alarms",
+      "Timer"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "改善采集与钓鱼体验。",
+    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1664375531"
+  },
   {
     "Author": "Asvel",
     "Name": "Literal Map Link",
