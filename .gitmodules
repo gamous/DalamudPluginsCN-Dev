@@ -25,3 +25,6 @@
 [submodule "src/GatherBuddy"]
 	path = src/GatherBuddy
 	url = git@github.com:gamous/GatherBuddy.git
+[submodule "src/NextUI-Plugin"]
+	path = src/NextUI-Plugin
+	url = git@github.com:gamous/NextUI-Plugin.git

@@ -195,7 +195,28 @@
     "IsTestingExclusive": false,
     "LastUpdated": "1663607736"
   },
-
+  {
+    "Author": "Kaminaris",
+    "Name": "NextUIPlugin",
+    "InternalName": "NextUIPlugin",
+    "AssemblyVersion": "7.0.0.6",
+    "Description": "悬浮窗插件的大喇嘛替代品，比Browsingway有更丰富的选项并内置了websocket服务器。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
+    "Tags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
+    "Punchline": "悬浮窗插件的大喇嘛替代品",
+    "DownloadLinkInstall": "https://github.com/gamous/NextUI-Plugin/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/NextUI-Plugin/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/NextUI-Plugin/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1664514353"
+  },
   {
     "Author": "akira0245",
     "Name": "Radar",
