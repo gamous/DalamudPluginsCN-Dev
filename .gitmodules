@@ -28,3 +28,12 @@
 [submodule "src/NextUI-Plugin"]
 	path = src/NextUI-Plugin
 	url = git@github.com:gamous/NextUI-Plugin.git
+[submodule "src/LeveBuddy"]
+	path = src/LeveBuddy
+	url = git@github.com:gamous/LeveBuddy.git
+[submodule "src/AutoHook"]
+	path = src/AutoHook
+	url = git@github.com:gamous/AutoHook.git
+[submodule "src/AutoMiniGame"]
+	path = src/AutoMiniGame
+	url = git@github.com:gamous/AutoMiniGame.git

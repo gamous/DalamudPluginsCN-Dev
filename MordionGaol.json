@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Det",
+    "Name": "Auto Hook",
+    "InternalName": "AutoHook",
+    "AssemblyVersion": "2.3.0.3",
+    "Description": "It hooks the fish for you, can you believe it?",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/InitialDet/AutoHook",
+    "Tags": [
+      "Gathering",
+      "Fishing"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "让钓鱼没那么无聊。",
+    "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/gamous/AutoHook/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/AutoHook/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/AutoHook/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1664375531"
+  }
+]
