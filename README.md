@@ -22,6 +22,10 @@
 
 `https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/dist/PluginMaster.json`
 
+### 莫迪翁仓库 Mordion Gaol
+
+``https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json``
+
 
 
 ## 内容 Contents
@@ -30,21 +34,28 @@
 
 | 插件名称                                                     | 介绍                                 | 插件作者                                              | 本地化维护                          | 汉化 |
 | ------------------------------------------------------------ | ------------------------------------ | ----------------------------------------------------- | ----------------------------------- | ---- |
-| [PostMeteion](https://github.com/gamous/PostMeteion)         | 梅蒂恩会执行光呆的指令并汇报成果     | [gamous](https://github.com/gamous)                   | x                                   | ×    |
+| [PostMeteion](https://github.com/gamous/PostMeteion)         | 梅蒂恩会执行光呆的指令并汇报成果     | [gamous](https://github.com/gamous)                   | -                                   | ×    |
 | [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒     | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous) | ×    |
 | [Browsingway](https://github.com/gamous/Browsingway)         | 游戏内浏览器悬浮窗显示               | [Styr1x](https://github.com/Styr1x)                   | [gamous](https://github.com/gamous) | √    |
 | [NextUI Plugin](https://gitlab.com/kaminariss/nextui-plugin) | 悬浮窗插件的大喇嘛替代品             | [Kaminariss](https://gitlab.com/kaminariss)           | [gamous](https://github.com/gamous) | ×    |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息   | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous) | √    |
 | [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)        | 允许通过坐标轴移动家具并解除摆放限制 | [LeonBlade](https://github.com/LeonBlade)             | [gamous](https://github.com/gamous) | √    |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy)   | 改善采集与钓鱼体验                   | [Ottermandias](https://github.com/Ottermandias)       | [gamous](https://github.com/gamous) | √    |
-| [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接     | [Asvel](https://github.com/Asvel)                     | x                                   | -    |
-| [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                   | [LittleNightmare](https://github.com/LittleNightmare) | x                                   | -    |
+| [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接     | [Asvel](https://github.com/Asvel)                     | -                                   | -    |
+| [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                   | [LittleNightmare](https://github.com/LittleNightmare) | -                                   | -    |
 
 ### 稳定仓库 
 
 | 插件名称                                              | 介绍                             | 插件作者                                  | 本地化维护                                | 汉化 |
 | ----------------------------------------------------- | -------------------------------- | ----------------------------------------- | ----------------------------------------- | ---- |
 | [Radar](https://github.com/emptyset0/Radar_akira0245) | 显示游戏物体在屏幕和地图上的位置 | [akira0245](https://github.com/akira0245) | [emptyset0](https://github.com/emptyset0) | √    |
+
+### 莫迪翁仓库
+
+| 插件名称                                                     | 介绍     | 插件作者                                        | 本地化维护                          | 汉化 |
+| ------------------------------------------------------------ | -------- | ----------------------------------------------- | ----------------------------------- | ---- |
+| [AutoHook](https://github.com/InitialDet/AutoHook)           | 自动钓鱼 | [InitialDet](https://github.com/InitialDet)     | [gamous](https://github.com/gamous) | √    |
+| [XIVAutoAttack](https://github.com/ArchiDog1998/XIVAutoAttack) | 自动攻击 | [ArchiDog1998](https://github.com/ArchiDog1998) | -                                   |      |
 
 ## 开发 Contribution
 
