@@ -41,6 +41,7 @@
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息   | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous) | √    |
 | [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)        | 允许通过坐标轴移动家具并解除摆放限制 | [LeonBlade](https://github.com/LeonBlade)             | [gamous](https://github.com/gamous) | √    |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy)   | 改善采集与钓鱼体验                   | [Ottermandias](https://github.com/Ottermandias)       | [gamous](https://github.com/gamous) | √    |
+| [FFXIVMoneyTracker](https://github.com/yschuurmans/FFXIVMoneyTracker) | 记录金币的收入和支出情况             | [yschuurmans](https://github.com/yschuurmans)         | [gamous](https://github.com/gamous) | ×    |
 | [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接     | [Asvel](https://github.com/Asvel)                     | -                                   | -    |
 | [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                   | [LittleNightmare](https://github.com/LittleNightmare) | -                                   | -    |
 

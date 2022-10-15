@@ -150,6 +150,30 @@
     "LastUpdated": "1664375531"
   },
   {
+    "Author": "Youri",
+    "Name": "FFXIV Money Tracker",
+    "Punchline": "For when you want to know how much you spend/earn in ffxiv!",
+    "Description": "记账 For when you want to know how much you spend/earn in ffxiv!",
+    "InternalName": "XIVMoneyTracker",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/yschuurmans/FFXIVMoneyTracker",
+    "DownloadLinkInstall": "https://github.com/gamous/FFXIVMoneyTracker/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/FFXIVMoneyTracker/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/FFXIVMoneyTracker/releases/latest/download/latest.zip",
+    "DownloadCount": 1,
+    "LastUpdated": "1642604760",
+    "Tags": [
+      "money",
+      "plugin",
+      "tracker"
+    ],
+
+    "AssemblyVersion": "0.0.2.8"
+  },
+  {
     "Author": "Asvel",
     "Name": "Literal Map Link",
     "InternalName": "LiteralMapLink",

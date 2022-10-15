@@ -37,3 +37,6 @@
 [submodule "src/AutoMiniGame"]
 	path = src/AutoMiniGame
 	url = git@github.com:gamous/AutoMiniGame.git
+[submodule "src/FFXIVMoneyTracker"]
+	path = src/FFXIVMoneyTracker
+	url = https://github.com/gamous/FFXIVMoneyTracker
