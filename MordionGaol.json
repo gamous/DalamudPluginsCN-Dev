@@ -21,36 +21,5 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1664375531"
-  },
-  {
-    "Author": "ArchiTed",
-    "Name": "XIV Auto Attack",
-    "Punchline": "Auto attack!",
-    "Description": "让自动攻击成为可能，请合理使用！此插件非常刺激！\n由于目前作者很多职业没有满级，如果有不好用的地方或者循环不合理，或者某职业需要添加选项，请及时联系，谢谢！\nQQ群：913297282 注意看下载量！\n输入/pattack以设置帮助菜单。",
-    "Changelog": "",
-    "Tags": [
-      "Attack"
-    ],
-    "CategoryTags": [
-      "jobs"
-    ],
-    "IsHide": false,
-    "InternalName": "XIVAutoAttack",
-    "AssemblyVersion": "0.9.8.5",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/ArchiDog1998/XIVAutoAttack",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
-    "DownloadCount": 1024,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/XIVAutoAttack/raw/master/latest/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/XIVAutoAttack/raw/master/latest/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ArchiDog1998/XIVAutoAttack/raw/master/latest/latest.zip",
-    "LoadPriority": 0,
-    "ImageUrls": [],
-    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/XIVAutoAttack/master/latest/XIVAutoAttackIcon.png",
-    "AcceptsFeedback": true,
-    "FeedbackMessage": null,
-    "FeedbackWebhook": null
   }
 ]
