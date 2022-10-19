@@ -64,7 +64,7 @@
 | [BossMod](https://github.com/awgil/ffxiv_bossmod)            | 战斗模块（暂不提供，请自行[获取源码](https://github.com/Yarukon/ffxiv_bossmod)编译） | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon) | √    | -                                                            |
 | AutoMiniGame                                                 | 金碟全能（暂不提供）                                         | [gamous](https://github.com/gamous)             | -                                     | √    | -                                                            |
 
-![image-20221019191615770](D:\DevSP\DalamudPluginsCN-Dev\assets\kaigua.png)
+![kaigua](https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/assets/kaigua.png)
 
 
 
