@@ -2,7 +2,7 @@
 
 适用于国服的Dalamud第三方插件仓库 **`dalamud-api6 net5.0-windows`**
 
-本仓库仅存储非主库插件以及未适配的主库测试插件，若有插件移入国服主库后会进行移除
+本仓库仅存储**非主库插件以及未适配的主库测试插件**，若有插件移入国服主库后会进行移除
 
 若插件无法使用，请查看 Dalamud Console（使用`/xllog`打开）中报错并提交 issue
 
@@ -10,19 +10,19 @@
 
 ### 测试仓库 Testing plugins
 
-优先仓库，插件下载地址位于插件源码仓或其他发布源，优先更新
+**优先仓库**，插件下载地址位于插件源码仓或其他发布源，**优先更新**
 
 `https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json`
 
-### 稳定仓库 Stable plugins
+### 备份仓库 Stable plugins
 
-备用仓库，插件包备份托管于本仓库内，防止发布源变更导致无法访问或无法适配
-
-**部分闭源插件请酌情考虑风险使用**
+**无需订阅**，仅备份闭源插件，防止发布源变更导致无法访问或无法适配
 
 `https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/dist/PluginMaster.json`
 
 ### 莫迪翁仓库 Mordion Gaol
+
+**不能保证账号安全**，请酌情考虑风险使用
 
 ``https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json``
 
@@ -53,11 +53,16 @@
 
 ### 莫迪翁仓库
 
-| 插件名称                                                     | 介绍                                   | 插件作者                                        | 本地化维护                          | 汉化 |
-| ------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------- | ----------------------------------- | ---- |
-| [AutoHook](https://github.com/InitialDet/AutoHook)           | 自动钓鱼                               | [InitialDet](https://github.com/InitialDet)     | [gamous](https://github.com/gamous) | √    |
-| [SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene) | 辍学：跳过主随剧情动画                 | [a08381](https://github.com/a08381)             | [gamous](https://github.com/gamous) | -    |
-| [XIVAutoAttack](https://github.com/ArchiDog1998/XIVAutoAttack) | 自动攻击（已移除，请前往作者仓库订阅） | [ArchiDog1998](https://github.com/ArchiDog1998) | -                                   | √    |
+部分插件恕不提供，珍惜账号，远离莫迪翁
+
+| 插件名称                                                     | 介绍                                                         | 插件作者                                        | 本地化维护                            | 汉化 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------- | ---- |
+| [AutoHook](https://github.com/InitialDet/AutoHook)           | 自动钓鱼/刺鱼                                                | [InitialDet](https://github.com/InitialDet)     | [gamous](https://github.com/gamous)   | √    |
+| [SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene) | 辍学：跳过主随剧情动画                                       | [a08381](https://github.com/a08381)             | [gamous](https://github.com/gamous)   | -    |
+| [XIVAutoAttack](https://github.com/ArchiDog1998/XIVAutoAttack) | 自动攻击（已移除，请前往作者仓库订阅）                       | [ArchiDog1998](https://github.com/ArchiDog1998) | -                                     | √    |
+| [Lifu](https://github.com/tssailzz8/Lifu)                    | 自动理符（已移除，请前往牙刷仓库订阅）                       | [tssailzz8](https://github.com/tssailzz8)       | -                                     | √    |
+| [BossMod](https://github.com/awgil/ffxiv_bossmod)            | 战斗模块（暂不提供，请自行[获取源码](https://github.com/Yarukon/ffxiv_bossmod)编译） | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon) | √    |
+| AutoMiniGame                                                 | 金碟全能（暂不提供）                                         | [gamous](https://github.com/gamous)             |                                       |      |
 
 ## 开发 Contribution
 
