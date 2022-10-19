@@ -40,3 +40,6 @@
 [submodule "src/FFXIVMoneyTracker"]
 	path = src/FFXIVMoneyTracker
 	url = https://github.com/gamous/FFXIVMoneyTracker
+[submodule "src/Dalamud.SkipCutscene"]
+	path = src/Dalamud.SkipCutscene
+	url = git@github.com:gamous/Dalamud.SkipCutscene.git

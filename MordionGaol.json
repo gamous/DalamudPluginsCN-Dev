@@ -21,5 +21,25 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1664375531"
+  },
+  {
+    "Author": "Windmourn",
+    "Name": "SkipCutscene",
+    "InternalName": "SkipCutscene",
+    "AssemblyVersion": "1.2.2.0",
+    "Description": "请组辍学队使用，避免在有初见情况下使用。招募暗号：cx",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "Tags": null,
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "辍学。",
+    "IconUrl": null,
+    "DownloadLinkInstall": "https://github.com/gamous/Dalamud.SkipCutscene/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/Dalamud.SkipCutscene/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/Dalamud.SkipCutscene/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1664375531"
   }
 ]
