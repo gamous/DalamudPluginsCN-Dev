@@ -43,3 +43,9 @@
 [submodule "src/Dalamud.SkipCutscene"]
 	path = src/Dalamud.SkipCutscene
 	url = git@github.com:gamous/Dalamud.SkipCutscene.git
+[submodule "src/FFXIVActionEffectRange"]
+	path = src/FFXIVActionEffectRange
+	url = git@github.com:gamous/FFXIVActionEffectRange.git
+[submodule "src/SmartVote"]
+	path = src/SmartVote
+	url = git@github.com:gamous/SmartVote.git

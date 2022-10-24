@@ -43,6 +43,28 @@
     "LastUpdated": "1664375531"
   },
   {
+    "Author": "Bluefissure",
+    "Name": "SmartVote",
+    "InternalName": "SmartVote",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "Smart Vote the Mvp in player commendation for you.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/gamous/SmartVote",
+    "Tags": [
+      "Vote"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/gamous/SmartVote/master/Data/icon.png",
+    "DownloadLinkInstall": "https://github.com/gamous/SmartVote/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/SmartVote/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/SmartVote/releases/latest/download/latest.zip",
+    "Punchline": "智能点赞",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1666622134"
+  },
+  {
     "Author": "NightmareXIV",
     "Name": "SplatoonX",
     "InternalName": "SplatoonX",
