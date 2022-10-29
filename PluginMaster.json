@@ -1,26 +1,26 @@
 [
-    {
-      "Author": "gamous",
-      "Name": "PostMeteion",
-      "InternalName": "PostMeteion",
-      "AssemblyVersion": "1.0.0.0",
-      "Description":  "梅蒂恩会执行光呆的指令并汇报成果，通过HttpApi与Webhook",
-      "ApplicableVersion": "any",
-      "RepoUrl": "https://github.com/gamous/PostMeteion",
-      "Tags": [
-        "httpapi",
-        "plugin",
-        "command"
-      ],
-      "DalamudApiLevel": 6,
-      "LoadPriority": 0,
-      "Punchline": "Meteion will process the command you post and report information.",
-      "DownloadLinkInstall": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
-      "DownloadLinkTesting": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
-      "IsHide": false,
-      "IsTestingExclusive": false,
-      "LastUpdated": "1662970852"
+  {
+    "Author": "gamous",
+    "Name": "PostMeteion",
+    "InternalName": "PostMeteion",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "梅蒂恩会执行光呆的指令并汇报成果，通过HttpApi与Webhook",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/gamous/PostMeteion",
+    "Tags": [
+      "httpapi",
+      "plugin",
+      "command"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "Meteion will process the command you post and report information.",
+    "DownloadLinkInstall": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/PostMeteion/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1662970852"
   },
   {
     "Author": "Liza Carvelli",
@@ -31,7 +31,7 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/carvelli/Fish-Notify",
     "Tags": [
-        "fishing"
+      "fishing"
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -72,9 +72,9 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
     "Tags": [
-        "marketboard",
-        "items",
-        "price"
+      "marketboard",
+      "items",
+      "price"
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -82,11 +82,11 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "CategoryTags": [
-        "ui",
-        "utility"
+      "ui",
+      "utility"
     ],
     "ImageUrls": [
-        "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+      "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
     "LastUpdate": "1639252441",
@@ -125,8 +125,8 @@
     "Author": "Ottermandias",
     "Name": "GatherBuddy",
     "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.1.6.3",
-    "Description": "添加可以通过物品名称查找采集点的命令来简化采集，并提供一个UI来持续追踪可采集时间窗口与天气条件。",
+    "AssemblyVersion": "3.1.7.1",
+    "Description": "【已并入主库，请卸载后从主库安装】添加可以通过物品名称查找采集点的命令来简化采集，并提供一个UI来持续追踪可采集时间窗口与天气条件。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "Tags": [
@@ -140,7 +140,7 @@
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
-    "Punchline": "改善采集与钓鱼体验。",
+    "Punchline": "【已并入主库】改善采集与钓鱼体验。",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
     "DownloadLinkInstall": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
@@ -170,7 +170,6 @@
       "plugin",
       "tracker"
     ],
-
     "AssemblyVersion": "0.0.2.8"
   },
   {
@@ -179,7 +178,10 @@
     "InternalName": "LiteralMapLink",
     "Punchline": "将地图坐标文本自动转换为地图链接",
     "Description": "在聊天框发送地图坐标文本时会自动转换为可点击的地图链接\nTurn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
-    "Tags": ["Chat", "Utility"],
+    "Tags": [
+      "Chat",
+      "Utility"
+    ],
     "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
     "AssemblyVersion": "1.1.1.0",
     "ApplicableVersion": "any",
@@ -187,7 +189,10 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": ["social", "utility"],
+    "CategoryTags": [
+      "social",
+      "utility"
+    ],
     "LastUpdate": "1660114520",
     "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
     "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
@@ -249,9 +254,9 @@
     "Description": "在屏幕和游戏地图上显示游戏实体的位置。\nDisplays game objects location on screen and map.",
     "ApplicableVersion": "any",
     "Tags": [
-        "overlay",
-        "hunt",
-        "akira"
+      "overlay",
+      "hunt",
+      "akira"
     ],
     "DalamudApiLevel": 6,
     "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
