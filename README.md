@@ -4,7 +4,37 @@
 
 本仓库仅存储**非主库插件以及未适配的主库测试插件**，若有插件移入国服主库后会进行移除
 
-若插件无法使用，请查看 Dalamud Console（使用`/xllog`打开）中报错并提交 issue
+若插件无法使用，请查看 Dalamud Console（使用`/xllog`打开）中报错并截图提交 issue
+
+**本仓库所有插件禁止各种形式的倒卖！持续的倒卖行为可能会被挂上本仓库耻辱墙。**
+
+## 使用须知 Warning
+
+根据[《盛趣游戏用户使用许可协议》](https://ff.web.sdo.com/web8/index.html#/newstab/newscont/217463)第四部分 3.1 相关条款，禁止用户使用破坏公平性的外挂软件参与游戏。
+
+本插件仓库以研究性目的而**非盈利**目的开发，**请勿扩散宣传乃至上架售卖**，下载后请在24小时内删除。
+
+根据[《最终幻想14》账号处罚细则明细](https://ff.web.sdo.com/web8/index.html#/newstab/newscont/268832)：
+
+> **5.使用脚本进行游戏包括但不仅限于非盛趣游戏开发、授权的第三方软件、插件等进行采集制作战斗任务等，破坏游戏平衡的行为。**
+>
+> 一旦查实初次将会处以30天的账号冻结处罚并清空相关游戏所得。屡次违规者**永久冻结**。
+>
+> **7.制作、宣扬以及使用外挂程序进行游戏包括但不限于加速、瞬移、异常飞天遁地，修改角色数据（攻击、血量）等表现形式。**
+>
+> 一旦查实将**永久冻结账号**。
+>
+> **8.利用系统的BUG、漏洞为自己及他人牟利。**
+>
+> 一旦查实将**永久冻结账号**。
+
+请您知悉使用本插件的相关风险，使用本插件过程中导致的一切**封号风险请自行负责**。
+
+根据[《互联网出版管理暂行规定》]([《互联网出版管理暂行规定》 (scio.gov.cn)](http://www.scio.gov.cn/zhzc/8/5/Document/1014219/1014219.htm))第六条：
+
+> “从事互联网出版活动，必须经过批准，未经批准，任何单位或个人不得开展互联网出版活动。” 
+
+外挂类商品属于**非法出版物**，倒卖将构成**非法经营罪**，望**小店**进货商知悉。
 
 ## 使用 Usage
 
@@ -43,7 +73,7 @@
 | [FFXIVMoneyTracker](https://github.com/yschuurmans/FFXIVMoneyTracker) | 记录金币的收入和支出情况             | [yschuurmans](https://github.com/yschuurmans)         | [gamous](https://github.com/gamous) | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/FFXIVMoneyTracker/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/FFXIVMoneyTracker/total.svg?label=)]() |
 | [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接     | [Asvel](https://github.com/Asvel)                     | -                                   | √    | -                                                            |
 | [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                   | [LittleNightmare](https://github.com/LittleNightmare) | -                                   | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/LittleNightmare/SunderingWorld/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/LittleNightmare/SunderingWorld/total.svg?label=)]() |
-| ~~[GatherBuddy](https://github.com/Ottermandias/GatherBuddy)~~ | 移入主库，下次更新时移除             | [Ottermandias](https://github.com/Ottermandias)       | [gamous](https://github.com/gamous) | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/GatherBuddy/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/GatherBuddy/total.svg?label=)]() |
+| [GatherBuddy](https://github.com/Ottermandias/GatherBuddy)   | 采集助手（已移除，请前往主库订阅）   | [Ottermandias](https://github.com/Ottermandias)       | [gamous](https://github.com/gamous) | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/GatherBuddy/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/GatherBuddy/total.svg?label=)]() |
 
 ### 稳定仓库 
 
@@ -59,10 +89,10 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------- | ---- | ------------------------------------------------------------ |
 | [AutoHook](https://github.com/InitialDet/AutoHook)           | 自动钓鱼/刺鱼                                                | [InitialDet](https://github.com/InitialDet)     | [gamous](https://github.com/gamous)   | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/AutoHook/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/AutoHook/total.svg?label=)]() |
 | [SkipCutscene](https://github.com/a08381/Dalamud.SkipCutscene) | 辍学：跳过主随剧情动画                                       | [a08381](https://github.com/a08381)             | [gamous](https://github.com/gamous)   | -    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/Dalamud.SkipCutscene/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/Dalamud.SkipCutscene/total.svg?label=)]() |
-| [SmartVote](https://github.com/gamous/SmartVote)             | 快速点赞                                                     | [Bluefissure](https://github.com/Bluefissure)   | [gamous](https://github.com/gamous)   | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/SmartVote/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/SmartVote/total.svg?label=)]() |
-| [Splatoon](https://github.com/NightmareXIV/Splatoon)         | 功能丰富的场景绘图（绕过限制）                               | [Limiana](https://github.com/Limiana)           | [gamous](https://github.com/gamous)   | -    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/SplatoonX/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/SplatoonX/total.svg?label=)]() |
+| [SmartVote](https://github.com/gamous/SmartVote)             | 快速点赞（配合主库SimpleTweak食用更佳）                      | [Bluefissure](https://github.com/Bluefissure)   | [gamous](https://github.com/gamous)   | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/SmartVote/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/SmartVote/total.svg?label=)]() |
+| [SplatoonX](https://github.com/NightmareXIV/Splatoon)        | 功能丰富的场景绘图（国服绕过限制特供）                       | [Limiana](https://github.com/Limiana)           | [gamous](https://github.com/gamous)   | -    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/SplatoonX/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/gamous/SplatoonX/total.svg?label=)]() |
 | [XIVAutoAttack](https://github.com/ArchiDog1998/XIVAutoAttack) | 自动攻击（已移除，请前往作者仓库订阅）                       | [ArchiDog1998](https://github.com/ArchiDog1998) | -                                     | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/ArchiDog1998/XIVAutoAttack/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/ArchiDog1998/XIVAutoAttack/total.svg?label=)]() |
-| [Lifu](https://github.com/tssailzz8/Lifu)                    | 自动理符（已移除，请前往牙刷仓库订阅）                       | [tssailzz8](https://github.com/tssailzz8)       | -                                     | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/total.svg?label=)]() |
+| [Lifu](https://github.com/tssailzz8/Lifu)                    | 自动理符（已移除，请前往源码仓库获取）                       | [tssailzz8](https://github.com/tssailzz8)       | -                                     | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/total.svg?label=)]() |
 | [BossMod](https://github.com/awgil/ffxiv_bossmod)            | 战斗模块（暂不提供，请自行[获取源码](https://github.com/Yarukon/ffxiv_bossmod)编译） | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon) | √    | -                                                            |
 | AutoMiniGame                                                 | 金碟全能（暂不提供）                                         | [gamous](https://github.com/gamous)             | -                                     | √    | -                                                            |
 
@@ -90,10 +120,22 @@
 
 | 问题                                  | 解决方案                                                     | 兼容化方案                                                   |
 | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| API 版本或 .Net 版本不匹配            | 重新编译即可                                                 | 无                                                           |
+| API 版本或 .Net 版本不匹配            | 修改Net版本并链接国服Dalamud文件 重新编译即可                | 无                                                           |
 | Opcode不匹配                          | 从[FFXIVOpcode](https://github.com/karashiiro/FFXIVOpcodes)查找并替换相应的Opcode | 联网从Opcode文件中获取对应Opcode                             |
 | Signature未找到                       | 使用CE/IDA等逆向工具重新寻找国服客户端的函数签名             | 找更通用的Sig :xD                                            |
 | 文本需要汉化                          | 使用[XIV文本检索工具](https://strings.wakingsands.com/)查找或在解包数据中查找对应文本，添加或替换 | 添加Crowdin支持                                              |
-| DataCenter为空（国服World表存在错误） | 添加[Utils4CN](https://github.com/AsterOcclu/FFXIV_RpToolboxCN/tree/master/RoleplayersToolbox/Utils4CN)库，初始化时修改World表 | 忽略，绑定使用[SunderingWorld](https://github.com/LittleNightmare/SunderingWorld)插件 |
+| DataCenter为空（国服World表存在错误） | 添加[Utils4CN](https://github.com/AsterOcclu/FFXIV_RpToolboxCN/tree/master/RoleplayersToolbox/Utils4CN)库，初始化时修改World表，或自行维护插件World表 | 忽略，绑定使用[SunderingWorld](https://github.com/LittleNightmare/SunderingWorld)插件 |
 | 未提供源码                            | 使用[ILSPY](https://github.com/icsharpcode/ILSpy)逆向生成C#源码导出并手动完善修复 | 找插件开发者py源码                                           |
 | ...                                   |                                                              |                                                              |
+
+## 耻辱墙 Wall of Shame
+
+出于保护个人隐私，暂做模糊处理，若持续侵权将逐步解密，若有疑惑，欢迎Email或Issue申诉
+
+### XPJ
+
+- 陆行鸟 宇宙和音 芒椰████冻
+- QQ 74████896
+- Phone 157████0334
+
+- **编译倒卖本仓库一系列插件 在咸鱼使用多个账号上架**

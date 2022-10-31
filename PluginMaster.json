@@ -122,34 +122,6 @@
     "LastUpdated": "1664036705"
   },
   {
-    "Author": "Ottermandias",
-    "Name": "GatherBuddy",
-    "InternalName": "GatherBuddy",
-    "AssemblyVersion": "3.1.7.1",
-    "Description": "【已并入主库，请卸载后从主库安装】添加可以通过物品名称查找采集点的命令来简化采集，并提供一个UI来持续追踪可采集时间窗口与天气条件。",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
-    "Tags": [
-      "Gathering",
-      "Fishing",
-      "Miner",
-      "Botanist",
-      "Weather",
-      "Alarms",
-      "Timer"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "【已并入主库】改善采集与钓鱼体验。",
-    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/GatherBuddy/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdated": "1664375531"
-  },
-  {
     "Author": "Youri",
     "Name": "FFXIV Money Tracker",
     "Punchline": "For when you want to know how much you spend/earn in ffxiv!",
@@ -194,9 +166,9 @@
       "utility"
     ],
     "LastUpdate": "1660114520",
-    "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
-    "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
-    "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip"
+    "DownloadLinkInstall": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
+    "DownloadLinkUpdate": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
+    "DownloadLinkTesting": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip"
   },
   {
     "Author": "Styr1x",

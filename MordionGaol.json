@@ -68,7 +68,7 @@
     "Author": "NightmareXIV",
     "Name": "SplatoonX",
     "InternalName": "SplatoonX",
-    "AssemblyVersion": "10.0.0.0",
+    "AssemblyVersion": "10.0.0.1",
     "Description": "Adds custom waymark system into the game, allowing drawing infinite amount of waymarks in world and highlighting objects, players and enemies.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
