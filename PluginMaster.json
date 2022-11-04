@@ -166,9 +166,9 @@
       "utility"
     ],
     "LastUpdate": "1660114520",
-    "DownloadLinkInstall": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
-    "DownloadLinkUpdate": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
-    "DownloadLinkTesting": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip"
+    "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
+    "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
+    "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip"
   },
   {
     "Author": "Styr1x",
@@ -233,9 +233,9 @@
     "DalamudApiLevel": 6,
     "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
     "Punchline": "Displays game objects location on screen and map.",
-    "DownloadLinkInstall": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/dist/Radar/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/dist/Radar/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/dist/Radar/latest.zip",
+    "DownloadLinkInstall": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
+    "DownloadLinkUpdate": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
+    "DownloadLinkTesting": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
