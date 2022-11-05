@@ -52,3 +52,6 @@
 [submodule "src/ActionTimeline"]
 	path = src/ActionTimeline
 	url = https://github.com/gamous/ActionTimeline
+[submodule "src/Marketbuddy"]
+	path = src/Marketbuddy
+	url = https://github.com/gamous/Marketbuddy

@@ -245,6 +245,25 @@
     "IconUrl": null
   },
   {
+    "Author": "Chalkos",
+    "Name": "Marketbuddy",
+    "Punchline": "简化日常的市场出售操作",
+    "Description": "Helper for your day-to-day market operations.",
+    "InternalName": "Marketbuddy",
+    "AssemblyVersion": "0.2.2.12",
+    "RepoUrl": "https://github.com/chalkos/Marketbuddy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/gamous/Marketbuddy/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/Marketbuddy/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/gamous/Marketbuddy/releases/latest/download/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1632409669",
+    "Changelog": "* 0.2.2.12\n  * fix: startup problem resolved\n* 0.2.2.11\n  * fix: handle clipboard exceptions"
+  },
+  {
     "Author": "akira0245",
     "Name": "Radar",
     "InternalName": "Radar",
