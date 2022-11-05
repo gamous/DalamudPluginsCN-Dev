@@ -219,6 +219,32 @@
     "LastUpdated": "1664514353"
   },
   {
+    "Author": "Tischel",
+    "Name": "ActionTimeline",
+    "Punchline": "更好的实时技能显示与循环记录",
+    "Description": "Configurable timeline display of all the actions you use.",
+    "Tags": [
+      "UI"
+    ],
+    "CategoryTags": null,
+    "IsHide": false,
+    "InternalName": "ActionTimeline",
+    "AssemblyVersion": "0.2.0.0",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/Tischel/ActionTimeline",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/gamous/ActionTimeline/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/ActionTimeline/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/ActionTimeline/releases/latest/download/latest.zip",
+    "LoadRequiredState": 0,
+    "LoadPriority": 0,
+    "ImageUrls": null,
+    "IconUrl": null
+  },
+  {
     "Author": "akira0245",
     "Name": "Radar",
     "InternalName": "Radar",

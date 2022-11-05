@@ -49,3 +49,6 @@
 [submodule "src/SmartVote"]
 	path = src/SmartVote
 	url = git@github.com:gamous/SmartVote.git
+[submodule "src/ActionTimeline"]
+	path = src/ActionTimeline
+	url = https://github.com/gamous/ActionTimeline
