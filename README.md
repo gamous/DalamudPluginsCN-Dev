@@ -96,7 +96,6 @@
 | [XIVAutoAttack](https://github.com/ArchiDog1998/XIVAutoAttack) | 自动攻击（已移除，请前往作者仓库订阅）                       | [ArchiDog1998](https://github.com/ArchiDog1998) | -                                     | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/ArchiDog1998/XIVAutoAttack/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/ArchiDog1998/XIVAutoAttack/total.svg?label=)]() |
 | [Lifu](https://github.com/tssailzz8/Lifu)                    | 自动理符（已移除，请前往源码仓库获取）                       | [tssailzz8](https://github.com/tssailzz8)       | -                                     | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/latest/total.svg?label=)]() [![Github All Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/total.svg?label=)]() |
 | [BossMod](https://github.com/awgil/ffxiv_bossmod)            | 战斗模块（暂不提供，请自行[获取源码](https://github.com/Yarukon/ffxiv_bossmod)编译） | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon) | √    | -                                                            |
-| AutoMiniGame                                                 | 金碟全能（暂不提供）                                         | [gamous](https://github.com/gamous)             | -                                     | √    | -                                                            |
 
 ![kaigua](https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/assets/kaigua.png)
 
@@ -144,10 +143,10 @@
 
 - **编译倒卖本仓库一系列插件 在咸鱼使用多个账号上架**
 
-### Hibiki
+### 千响/Hibiki
 
 - 陆行鸟 ?? ??
 - QQ 2327635737
-- Phone 19953999798
+- Phone 199████9798
 - 山东省 临沂市 兰山区 金雀山街道沂蒙路███号█████
 - **二次倒卖XPJ编译倒卖的本仓库一系列插件 在咸鱼上架**
