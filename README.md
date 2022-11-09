@@ -111,7 +111,7 @@
 | [ Karlin](https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json) | `https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json` | **GoldSaucerAssist, PvPSelector, JobAssist**, PixelPerfectEx |
 | [4679](https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json) | `https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json` | HaselTweaks, Glamourer, MakePlace, AntiAfkKick, ReAction, **YesAlready**, **SomethingNeedDoing**, Cammy |
 | [Yarukon](https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/repo.json) | `https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/repo.json` | Penumbra, MaterialUI, Browsingway, **OceanFishin**, Peeping Tom, PriceInsight, **NoClippy**, MakePlace |
-| [44451516]([44451516/XIVSlothCombo: XivCombo for very lazy gamers (github.com)](https://github.com/44451516/XIVSlothCombo)) | `https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json` | **XIVSlothCombo**(Outdated)                                  |
+| [44451516](https://github.com/44451516/XIVSlothCombo)        | `https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json` | **XIVSlothCombo**(Outdated)                                  |
 
 
 
