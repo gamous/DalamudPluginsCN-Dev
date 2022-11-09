@@ -245,6 +245,30 @@
     "IconUrl": null
   },
   {
+    "Author": "yomishino",
+    "Name": "ActionEffectRange",
+    "InternalName": "ActionEffectRange",
+    "Punchline": "显示技能的影响范围",
+    "AssemblyVersion": "1.4.6.2",
+    "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
+    "Tags": [
+      "UI",
+      "AoE",
+      "Action",
+      "EffectRange"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip"
+  },
+  {
     "Author": "Chalkos",
     "Name": "Marketbuddy",
     "Punchline": "简化日常的市场出售操作",
