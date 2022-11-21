@@ -83,5 +83,25 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1664375531"
+  },
+  {
+    "Author": "gamous",
+    "Name": "AutoMiniGame",
+    "InternalName": "AutoMiniGame",
+    "AssemblyVersion": "10.0.0.1",
+    "Description": "金碟小助手，幻卡随便抽",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
+    "Tags": null,
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "AutoMiniGame",
+    "IconUrl": null,
+    "DownloadLinkInstall": "https://github.com/gamous/AutoMiniGame/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/AutoMiniGame/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/AutoMiniGame/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1669024972"
   }
 ]
