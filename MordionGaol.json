@@ -137,9 +137,9 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IconUrl": null,
-    "DownloadLinkInstall": "https://github.com/tssailzz8/Lifu/FakeName/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/tssailzz8/Lifu/FakeName/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/tssailzz8/Lifu/FakeName/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/tssailzz8/Lifu/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/tssailzz8/Lifu/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/tssailzz8/Lifu/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1664553600"
