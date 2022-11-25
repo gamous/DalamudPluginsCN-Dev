@@ -288,6 +288,27 @@
     "Changelog": "* 0.2.2.12\n  * fix: startup problem resolved\n* 0.2.2.11\n  * fix: handle clipboard exceptions"
   },
   {
+    "Author": "Marulu, StreetRat, Yarukon",
+    "Name": "XIVR - VR Mod",
+    "InternalName": "xivr",
+    "Punchline": "Mod to allow VR",
+    "AssemblyVersion": "0.0.0.9",
+    "Description": "Mod to allow vr.\nWARNING - SEIZURES If you are prone to epileptic seizures, DO NOT PLAY THIS MOD. Your desktop screen will flicker rapidly while VR is active. (The in-headset view won't flicker.)\n** Requires SteamVR **\nPlease click the globe icon for detailed instructions.\nChat/FAQ: flat2vr.com",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Yarukon/xivr-cn",
+    "Tags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Yarukon/xivr-cn/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yarukon/xivr-cn/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Yarukon/xivr-cn/releases/latest/download/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1669368980"
+  },
+  {
     "Author": "akira0245",
     "Name": "Radar",
     "InternalName": "Radar",
