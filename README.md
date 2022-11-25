@@ -44,12 +44,6 @@
 
 `https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json`
 
-### 备份仓库 Stable plugins
-
-**无需订阅**，仅备份闭源插件，防止发布源变更导致无法访问或无法适配
-
-`https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/dist/PluginMaster.json`
-
 ### 莫迪翁仓库 Mordion Gaol
 
 **不能保证账号安全**，请酌情考虑风险使用
@@ -58,11 +52,13 @@
 
 ### 常见使用问题 Q&A
 
-**仓库链接下载失败：** 网络问题，请自行使用代理或者 [Steam++](https://steampp.net/)、[steamcommunity 302 ](https://www.dogfight360.com/blog/686/) 等工具加速Github的网络访问。
+**仓库链接下载失败：** 网络问题，请自行使用代理或者 **[Steam++](https://steampp.net/)、[steamcommunity 302 ](https://www.dogfight360.com/blog/686/)** 等工具加速Github的网络访问。
 
 ## 内容 Contents
 
 ### 测试仓库 
+
+主仓库
 
 | 插件名称                                                     | 介绍                                         | 插件作者                                              | 本地化维护                                      | 汉化 | 下载量                                                       |
 | ------------------------------------------------------------ | -------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | ---- | ------------------------------------------------------------ |
@@ -70,20 +66,23 @@
 | [ActionTimeline](https://github.com/Tischel/ActionTimeline)  | 更好的实时技能显示与循环记录                 | [Tischel](https://github.com/Tischel)                 | [ArchiDog1998](https://github.com/ArchiDog1998) | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/ActionTimeline/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/ActionTimeline/total.svg?label=)]() |
 | [ActionEffectRange](https://github.com/yomishino/FFXIVActionEffectRange) | 显示技能的影响范围                           | [yomishino](https://github.com/yomishino)             | [gamous](https://github.com/gamous)             | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/FFXIVActionEffectRange/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/FFXIVActionEffectRange/total.svg?label=)]() |
 | [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)        | 允许通过坐标轴移动家具并解除摆放限制（汉化） | [LeonBlade](https://github.com/LeonBlade)             | [gamous](https://github.com/gamous)             | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/BDTHPlugin/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/BDTHPlugin/total.svg?label=)]() |
+| [BlindBoxPlugin](https://github.com/he0119/FFXIVBlindBoxPlugin) | 统计盲盒中物品获得情况                       | [he0119](https://github.com/he0119)                   | -                                               | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/he0119/FFXIVBlindBoxPlugin/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/he0119/FFXIVBlindBoxPlugin/total.svg?label=)]() |
 | [FishNotify](https://github.com/carvelli/Fish-Notify)        | 钓鱼咬钩时发出声音以及聊天框提醒             | [carvelli](https://github.com/carvelli)               | [gamous](https://github.com/gamous)             | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/FishNotify/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/FishNotify/total.svg?label=)]() |
 | [Browsingway](https://github.com/gamous/Browsingway)         | 游戏内浏览器悬浮窗显示                       | [Styr1x](https://github.com/Styr1x)                   | [gamous](https://github.com/gamous)             | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/Browsingway/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/Browsingway/total.svg?label=)]() |
 | [NextUI Plugin](https://gitlab.com/kaminariss/nextui-plugin) | 悬浮窗插件的大喇嘛替代品                     | [Kaminariss](https://gitlab.com/kaminariss)           | [gamous](https://github.com/gamous)             | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/NextUI-Plugin/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/NextUI-Plugin/total.svg?label=)]() |
 | [PriceInsight](https://github.com/Kouzukii/ffxiv-priceinsight) | 在物品弹出帮助上显示市场板价格信息           | [Kouzukii](https://github.com/Kouzukii)               | [gamous](https://github.com/gamous)             | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/PriceInsight/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/PriceInsight/total.svg?label=)]() |
 | [Marketbuddy](https://github.com/chalkos/Marketbuddy)        | 简化日常的市场出售操作                       | [chalkos](https://github.com/chalkos)                 | [gamous](https://github.com/gamous)             | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/Marketbuddy/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/Marketbuddy/total.svg?label=)]() |
 | [MoneyTracker](https://github.com/yschuurmans/FFXIVMoneyTracker) | 记录金币的收入和支出情况                     | [yschuurmans](https://github.com/yschuurmans)         | [gamous](https://github.com/gamous)             | ×    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/FFXIVMoneyTracker/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/FFXIVMoneyTracker/total.svg?label=)]() |
-| [xivr](https://github.com/Yarukon/xivr-cn)                   | VR模组                                       | [ProjectMimer](https://github.com/ProjectMimer)       | [Yarukon](https://github.com/Yarukon)           |      | [![Github Latest Releases](https://img.shields.io/github/downloads/Yarukon/xivr-cn/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/Yarukon/xivr-cn/total.svg?label=)]() |
+| [XIVR](https://github.com/Yarukon/xivr-cn)                   | VR模组                                       | [ProjectMimer](https://github.com/ProjectMimer)       | [Yarukon](https://github.com/Yarukon)           |      | [![Github Latest Releases](https://img.shields.io/github/downloads/Yarukon/xivr-cn/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/Yarukon/xivr-cn/total.svg?label=)]() |
 | [SunderingWorld](https://github.com/LittleNightmare/SunderingWorld) | 处理国区服务器问题                           | [LittleNightmare](https://github.com/LittleNightmare) | -                                               | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/LittleNightmare/SunderingWorld/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/LittleNightmare/SunderingWorld/total.svg?label=)]() |
 | [LiteralMapLink](https://github.com/Asvel/ffxiv-literal-map-link) | 将地图坐标文本自动转换为地图链接             | [Asvel](https://github.com/Asvel)                     | -                                               | √    | -                                                            |
 | -                                                            | **-以下暂不直接提供-**                       | -                                                     | -                                               | -    | -                                                            |
-| [DDD](https://github.com/wozaiha/DD)                         | ACT日志行输出（开发中）                      | [wozaiha](https://github.com/wozaiha)                 |                                                 |      |                                                              |
+| [DDD](https://github.com/wozaiha/DD)                         | ACT日志行输出（开发中）                      | [wozaiha](https://github.com/wozaiha)                 | -                                               | -    |                                                              |
 | [GatherBuddy](https://github.com/Ottermandias/GatherBuddy)   | 采集助手（已移除，请前往主库订阅）           | [Ottermandias](https://github.com/Ottermandias)       | [gamous](https://github.com/gamous)             | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/gamous/GatherBuddy/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/gamous/GatherBuddy/total.svg?label=)]() |
 
-### 稳定仓库 
+### 备份仓库 
+
+源链接包含在测试仓库中
 
 | 插件名称                                              | 介绍                             | 插件作者                                  | 本地化维护                                | 汉化 | 下载量 |
 | ----------------------------------------------------- | -------------------------------- | ----------------------------------------- | ----------------------------------------- | ---- | ------ |
@@ -121,7 +120,7 @@
 
 **友情链接：**[卫月仓库链接整理 - 小小梦魇的博客 | LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/卫月仓库链接/)
 
-
+![kaigua](https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/assets/tougua.png)
 
 ## 开发 Contribution
 
@@ -133,11 +132,6 @@
 - 确认源码子仓模块均与远程完成同步（commit id一致）
 - 更新 `PluginMaster.json ` 与 `README.md`
 - 提交更新
-
-### 提交到稳定仓
-
-- 添加打包好的插件到 `dist` 下的子目录
-- 更新 `PluginMaster.json ` 与 `README.md`
 
 ### 常见本地化问题 Faq
 
