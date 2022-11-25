@@ -105,7 +105,7 @@
 | -                                                            | **-以下暂不直接提供-**                                       | -                                               | -                                                     | -    | -                                                            |
 | [XIVAutoAttack](https://github.com/ArchiDog1998/XIVAutoAttack) | 自动攻击（已移除，请前往作者仓库订阅）                       | [ArchiDog1998](https://github.com/ArchiDog1998) | -                                                     | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/ArchiDog1998/XIVAutoAttack/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/ArchiDog1998/XIVAutoAttack/total.svg?label=)]() |
 | [XIVSlothCombo](https://github.com/Nik-Potokar/XIVSlothCombo) | 一键攻击（不提供，前往[维护仓库](https://github.com/44451516/XIVSlothCombo)获取） | [Nik-Potokar](https://github.com/Nik-Potokar)   | [44451516](https://github.com/44451516/XIVSlothCombo) | √    | -                                                            |
-| **[BossMod](https://github.com/awgil/ffxiv_bossmod)**        | 战斗模块（不提供，请自行[获取源码](https://github.com/Yarukon/ffxiv_bossmod)编译） | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon)                 | √    | -                                                            |
+| **[BossMod](https://github.com/awgil/ffxiv_bossmod)**        | 战斗模块（不提供，自行[获取源码](https://github.com/Yarukon/ffxiv_bossmod)编译） | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon)                 | √    | -                                                            |
 | [BossMod](https://github.com/awgil/ffxiv_bossmod)            | 战斗模块（不提供，前往[维护仓库](https://github.com/44451516/ffxiv_bossmod)获取） | [awgil](https://github.com/awgil)               | [44451516](https://github.com/44451516/ffxiv_bossmod) | -    | -                                                            |
 
 ![kaigua](https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/assets/kaigua.png)
@@ -117,8 +117,7 @@
 | [tssailzz8](https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json) | `https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json` | **Zoom, AutoFaka, SeeBuff, Lock**, Line                      |
 | [ Karlin](https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json) | `https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json` | **GoldSaucerAssist, PvPSelector, JobAssist**, PixelPerfectEx |
 | [4679](https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json) | `https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json` | HaselTweaks, Glamourer, MakePlace, AntiAfkKick, ReAction, **YesAlready**, **SomethingNeedDoing**, Cammy |
-| [Yarukon](https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/repo.json) | `https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/repo.json` | Penumbra, MaterialUI, Browsingway, **OceanFishin**, Peeping Tom, PriceInsight, **NoClippy**, MakePlace |
-|                                                              | `https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/pluginmaster.json` | **XIVSlothCombo**                                            |
+| [Yarukon](https://www.gitclone.com/gogs/Yarukon)             | `https://gitclone.com/gogs/Yarukon/d-plugin/raw/master/repo.json` | Penumbra, MaterialUI, Browsingway, **OceanFishin**, Peeping Tom, PriceInsight, **NoClippy**, MakePlace |
 
 **友情链接：**[卫月仓库链接整理 - 小小梦魇的博客 | LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/卫月仓库链接/)
 
