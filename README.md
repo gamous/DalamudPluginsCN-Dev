@@ -120,7 +120,7 @@
 
 **友情链接：**[卫月仓库链接整理 - 小小梦魇的博客 | LittleNightmare Blog](https://blog.littlenightmare.top/2021/05/18/卫月仓库链接/)
 
-![kaigua](https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/assets/tougua.png)
+![tougua](https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/assets/tougua.jpg)
 
 ## 开发 Contribution
 
