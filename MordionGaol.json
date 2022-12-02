@@ -108,7 +108,7 @@
     "Author": "gamous",
     "Name": "AutoMiniGame",
     "InternalName": "AutoMiniGame",
-    "AssemblyVersion": "10.0.0.5",
+    "AssemblyVersion": "10.0.0.6",
     "Description": "金碟小助手，幻卡随便抽",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/gamous/AutoMiniGame",
