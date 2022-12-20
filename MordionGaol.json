@@ -7,10 +7,7 @@
     "Description": "It hooks the fish for you, can you believe it?",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/InitialDet/AutoHook",
-    "Tags": [
-      "Gathering",
-      "Fishing"
-    ],
+    "Tags": ["Gathering", "Fishing"],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "让钓鱼没那么无聊。",
@@ -50,9 +47,7 @@
     "Description": "Smart Vote the Mvp in player commendation for you.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/gamous/SmartVote",
-    "Tags": [
-      "Vote"
-    ],
+    "Tags": ["Vote"],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/gamous/SmartVote/master/Data/icon.png",
@@ -114,7 +109,7 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Minstrel-jh/FakeName",
     "Tags": null,
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "IconUrl": null,
     "DownloadLinkInstall": "https://github.com/Minstrel-jh/FakeName/releases/latest/download/latest.zip",

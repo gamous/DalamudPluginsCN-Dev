@@ -1,5 +1,24 @@
 [
   {
+    "Author": "yomishino",
+    "Name": "ActionEffectRange",
+    "InternalName": "ActionEffectRange",
+    "Punchline": "显示技能的影响范围",
+    "AssemblyVersion": "1.4.6.3",
+    "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
+    "Tags": ["UI", "AoE", "Action", "EffectRange"],
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "IconUrl": "",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip"
+  },
+  {
     "Author": "gamous",
     "Name": "PostMeteion",
     "InternalName": "PostMeteion",
@@ -7,11 +26,7 @@
     "Description": "梅蒂恩会执行光呆的指令并汇报成果，通过HttpApi与Webhook",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/gamous/PostMeteion",
-    "Tags": [
-      "httpapi",
-      "plugin",
-      "command"
-    ],
+    "Tags": ["httpapi", "plugin", "command"],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Meteion will process the command you post and report information.",
@@ -30,9 +45,7 @@
     "Description": "钓鱼咬钩时根据咬钩力度播放声音，同时聊天框提醒",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/carvelli/Fish-Notify",
-    "Tags": [
-      "fishing"
-    ],
+    "Tags": ["fishing"],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "Plays a sound when a fish is caught",
@@ -62,37 +75,6 @@
     "DownloadLinkInstall": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip",
     "DownloadLinkTesting": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip",
     "DownloadLinkUpdate": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip"
-  },
-  {
-    "Author": "Kouzukii",
-    "Name": "Price Insight",
-    "InternalName": "PriceInsight",
-    "AssemblyVersion": "2.0.0.0",
-    "Description": "在物品弹出帮助上显示市场板价格信息\nSee item marketboard prices on hover!",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
-    "Tags": [
-      "marketboard",
-      "items",
-      "price"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "ui",
-      "utility"
-    ],
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/PriceInsight/images/icon.png",
-    "LastUpdate": "1639252441",
-    "DownloadLinkInstall": "https://github.com/gamous/PriceInsight/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/PriceInsight/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/PriceInsight/releases/latest/download/latest.zip"
   },
   {
     "Author": "LeonBlade",
@@ -129,12 +111,8 @@
     "Description": "用来统计盲盒中物品获得情况的插件。\n/blindbox 打开盲盒信息界面。\n/blindbox config 打开设置界面。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/he0119/FFXIVBlindBoxPlugin",
-    "Tags": [
-      "blindbox"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
+    "Tags": ["blindbox"],
+    "CategoryTags": ["utility"],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "ImageUrls": [
@@ -166,11 +144,7 @@
     "DownloadLinkUpdate": "https://github.com/gamous/FFXIVMoneyTracker/releases/latest/download/latest.zip",
     "DownloadCount": 1,
     "LastUpdated": "1642604760",
-    "Tags": [
-      "money",
-      "plugin",
-      "tracker"
-    ],
+    "Tags": ["money", "plugin", "tracker"],
     "AssemblyVersion": "0.0.3.0"
   },
   {
@@ -179,10 +153,7 @@
     "InternalName": "LiteralMapLink",
     "Punchline": "将地图坐标文本自动转换为地图链接",
     "Description": "在聊天框发送地图坐标文本时会自动转换为可点击的地图链接\nTurn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
-    "Tags": [
-      "Chat",
-      "Utility"
-    ],
+    "Tags": ["Chat", "Utility"],
     "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
     "AssemblyVersion": "1.1.1.0",
     "ApplicableVersion": "any",
@@ -190,10 +161,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "CategoryTags": [
-      "social",
-      "utility"
-    ],
+    "CategoryTags": ["social", "utility"],
     "LastUpdate": "1660114520",
     "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
     "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.1.0.zip",
@@ -208,14 +176,7 @@
     "Description": "可以用于在游戏内显示 ACT Overlays 或任意网页\nRenders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Styr1x/Browsingway",
-    "Tags": [
-      "framework",
-      "browser",
-      "inlay",
-      "overlay",
-      "chromium",
-      "act"
-    ],
+    "Tags": ["framework", "browser", "inlay", "overlay", "chromium", "act"],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/gamous/Browsingway/releases/latest/download/latest.zip",
@@ -233,9 +194,7 @@
     "Description": "悬浮窗插件的大喇嘛替代品，比Browsingway有更丰富的选项并内置了websocket服务器。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://gitlab.com/kaminariss/nextui-plugin",
-    "Tags": [
-      "UI"
-    ],
+    "Tags": ["UI"],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "IconUrl": "https://gitlab.com/kaminariss/nextui-plugin/-/raw/master/icon.png",
@@ -246,56 +205,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": "1664514353"
-  },
-  {
-    "Author": "Tischel, 秋水(翻译)",
-    "Name": "ActionTimeline",
-    "Punchline": "更好的实时技能显示与循环记录",
-    "Description": "Configurable timeline display of all the actions you use.",
-    "Tags": [
-      "UI"
-    ],
-    "CategoryTags": null,
-    "IsHide": false,
-    "InternalName": "ActionTimeline",
-    "AssemblyVersion": "0.2.0.1",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/Tischel/ActionTimeline",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/gamous/ActionTimeline/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/ActionTimeline/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/ActionTimeline/releases/latest/download/latest.zip",
-    "LoadRequiredState": 0,
-    "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": null
-  },
-  {
-    "Author": "yomishino",
-    "Name": "ActionEffectRange",
-    "InternalName": "ActionEffectRange",
-    "Punchline": "显示技能的影响范围",
-    "AssemblyVersion": "1.4.6.2",
-    "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/yomishino/FFXIVActionEffectRange",
-    "Tags": [
-      "UI",
-      "AoE",
-      "Action",
-      "EffectRange"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IconUrl": "",
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip"
   },
   {
     "Author": "Chalkos",
@@ -317,38 +226,13 @@
     "Changelog": "* 0.2.2.12\n  * fix: startup problem resolved\n* 0.2.2.11\n  * fix: handle clipboard exceptions"
   },
   {
-    "Author": "Marulu, StreetRat, Yarukon",
-    "Name": "XIVR - VR Mod",
-    "InternalName": "xivr",
-    "Punchline": "Mod to allow VR",
-    "AssemblyVersion": "0.0.0.9",
-    "Description": "Mod to allow vr.\nWARNING - SEIZURES If you are prone to epileptic seizures, DO NOT PLAY THIS MOD. Your desktop screen will flicker rapidly while VR is active. (The in-headset view won't flicker.)\n** Requires SteamVR **\nPlease click the globe icon for detailed instructions.\nChat/FAQ: flat2vr.com",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Yarukon/xivr-cn",
-    "Tags": [
-      "utility"
-    ],
-    "DalamudApiLevel": 6,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Yarukon/xivr-cn/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Yarukon/xivr-cn/releases/latest/download/latest.zip",
-    "DownloadLinkInstall": "https://github.com/Yarukon/xivr-cn/releases/latest/download/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdated": "1669368980"
-  },
-  {
     "Author": "akira0245",
     "Name": "Radar",
     "InternalName": "Radar",
     "AssemblyVersion": "2.0.1.1",
     "Description": "在屏幕和游戏地图上显示游戏实体的位置。\nDisplays game objects location on screen and map.",
     "ApplicableVersion": "any",
-    "Tags": [
-      "overlay",
-      "hunt",
-      "akira"
-    ],
+    "Tags": ["overlay", "hunt", "akira"],
     "DalamudApiLevel": 6,
     "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
     "Punchline": "Displays game objects location on screen and map.",
