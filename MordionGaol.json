@@ -22,7 +22,7 @@
   {
     "Author": "NightmareXIV",
     "Name": "DSR Toolbox",
-    "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
+    "Punchline": "绝龙狮工具箱 解限特供 绑定SplatoonX使用",
     "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
     "InternalName": "DSREyeLocatorX",
     "AssemblyVersion": "2.0.0.8",
@@ -42,7 +42,7 @@
   {
     "Author": "NightmareXIV",
     "Name": "AbyssosToolbox",
-    "Punchline": "An assistance tool for fights in Abyssos.",
+    "Punchline": "万魔殿工具箱 解限特供 绑定SplatoonX使用",
     "Description": "Splatoon v2.1.1.0+ REQUIRED! Current functions: display of P6S unsafe tiles. ",
     "InternalName": "AbyssosToolboxX",
     "AssemblyVersion": "1.0.0.3",
