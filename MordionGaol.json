@@ -21,7 +21,7 @@
   },
   {
     "Author": "NightmareXIV",
-    "Name": "DSR Toolbox X",
+    "Name": "DSR Toolbox",
     "Punchline": "绝龙狮工具箱 解限特供 绑定SplatoonX使用",
     "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
     "InternalName": "DSREyeLocatorX",
@@ -41,7 +41,7 @@
   },
   {
     "Author": "NightmareXIV",
-    "Name": "AbyssosToolbox X",
+    "Name": "AbyssosToolbox",
     "Punchline": "万魔殿工具箱 解限特供 绑定SplatoonX使用",
     "Description": "Splatoon v2.1.1.0+ REQUIRED! Current functions: display of P6S unsafe tiles. ",
     "InternalName": "AbyssosToolboxX",
