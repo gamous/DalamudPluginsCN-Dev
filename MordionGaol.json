@@ -102,7 +102,7 @@
   {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
-    "Punchline": "国服画家 解限特供",
+    "Punchline": "国服画家 解限特供 如果ABT或DSR加载错误，请卸载重装本插件",
     "Description": "Adds custom waymark system into the game, allowing drawing infinite amount of waymarks in world and highlighting objects, players and enemies.",
     "InternalName": "SplatoonX",
     "AssemblyVersion": "10.3.1.0",
