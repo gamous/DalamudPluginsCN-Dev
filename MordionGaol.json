@@ -3,7 +3,7 @@
     "Author": "Det",
     "Name": "Auto Hook",
     "InternalName": "AutoHook",
-    "AssemblyVersion": "2.3.0.4",
+    "AssemblyVersion": "2.3.0.5",
     "Description": "It hooks the fish for you, can you believe it?",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/InitialDet/AutoHook",
