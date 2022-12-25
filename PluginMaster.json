@@ -269,5 +269,26 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip"
+  },
+  {
+    "Author": "Meisterlala",
+    "Name": "Neko Fans NSFW 18+ Patch",
+    "Punchline": "Frustrated in a dungeon? Look at a cute cat girl! Or look at sexy anime tiddies!",
+    "Description": "This Plugin does nothing on its own. Neko Fans needs to be installed.\nYou now have access to NSFW images in Neko Fans.",
+    "InternalName": "NekoLewd",
+    "AssemblyVersion": "1.0.1",
+    "RepoUrl": "https://github.com/Meisterlala/NekoFans",
+    "ApplicableVersion": "any",
+    "Tags": ["anime", "neko", "waifu", "miqote", "image", "NSFW"],
+    "CategoryTags": ["UI"],
+    "DalamudApiLevel": 7,
+    "IconUrl": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/icon18.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1661525212,
+    "DownloadCount": 1722,
+    "DownloadLinkInstall": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.1-NSFW/NekoFansLewd.zip",
+    "DownloadLinkTesting": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.1-NSFW/NekoFansLewd.zip",
+    "DownloadLinkUpdate": "https://github.com/Meisterlala/NekoFans/releases/download/1.0.1-NSFW/NekoFansLewd.zip"
   }
 ]
