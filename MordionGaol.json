@@ -1,5 +1,35 @@
 [
   {
+    "Testing": false,
+    "IsThirdParty": false,
+    "Author": "秋水, 汐ベMoon, gamous, 逆光, 玖祁, 牙刷play",
+    "Name": "XIV Auto Action",
+    "Punchline": "Teach you how to perform better in combat! -- gamous",
+    "Description": "本插件开源免费！\n让自动攻击成为可能，请合理使用！此插件非常刺激！目前主要用于刷幻化和日随打本。\n如果有不好用的地方或者循环不合理，或者某职业需要添加选项，请及时联系，谢谢！\nQQ群：913297282 注意看下载量！\n输入/pattack以设置帮助菜单。",
+    "Tags": ["Attack"],
+    "CategoryTags": ["jobs"],
+    "IsHide": false,
+    "InternalName": "XIVAutoAction",
+    "AssemblyVersion": "0.11.0.0",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/ArchiDog1998/XIVAutoAction",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "DownloadCount": 1024,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/XIVAutoAction/releases/latest/download/latest_CN.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/XIVAutoAction/releases/latest/download/latest_CN.zip",
+    "DownloadLinkTesting": "https://github.com/ArchiDog1998/XIVAutoAction/releases/latest/download/latest_CN.zip",
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/ArchiDog1998/XIVAutoAction/master/gifs/ExampleDNC.gif"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/XIVAutoAction/master/XIVAutoAttackIcon.png",
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null
+  },
+  {
     "Author": "Det",
     "Name": "Auto Hook",
     "InternalName": "AutoHook",
