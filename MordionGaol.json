@@ -137,7 +137,7 @@
     "LoadPriority": 0,
     "Punchline": "AutoMiniGame",
     "IconUrl": null,
-    "DownloadLinkInstall": "https://github.com/moewcorp/AutoMiniGame/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/gamous/AutoMiniGame/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/moewcorp/AutoMiniGame/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/moewcorp/AutoMiniGame/releases/latest/download/latest.zip",
     "IsHide": false,
