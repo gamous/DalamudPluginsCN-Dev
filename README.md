@@ -115,8 +115,7 @@
 | [Lifu](https://github.com/tssailzz8/Lifu)                    | 自动理符                                                     | [tssailzz8](https://github.com/tssailzz8)       | -                                                     | √    | [![Github Latest Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/latest/total.svg?label=)]()[![Github All Releases](https://img.shields.io/github/downloads/tssailzz8/Lifu/total.svg?label=)]() |
 | -                                                            | **-以下暂不直接提供-**                                       | -                                               | -                                                     | -    | -                                                            |
 | [XIVSlothCombo](https://github.com/Nik-Potokar/XIVSlothCombo) | 一键攻击（前往[维护仓库](https://github.com/44451516/XIVSlothCombo)获取） | [Nik-Potokar](https://github.com/Nik-Potokar)   | [44451516](https://github.com/44451516/XIVSlothCombo) | √    | -                                                            |
-| [Artisan](https://github.com/Yarukon/Artisan)                | 自动制作（前往[官方仓库](https://love.puni.sh/ment.json)订阅） | [puni.sh](https://puni.sh)                      | -                                                     | -    | -                                                            |
-| [Artisan](https://github.com/Yarukon/Artisan)                | 自动制作（自行[获取源码](https://github.com/Yarukon/Artisan)编译） | [puni.sh](https://puni.sh)                      | [Yarukon](https://github.com/Yarukon)                 | -    | -                                                            |
+| [Artisan](https://github.com/mokeling/Artisan)               | 自动制作（自行[获取源码](https://github.com/mokeling/Artisan)编译） | [puni.sh](https://puni.sh)                      | [mokeling](https://github.com/mokeling)               | √    | -                                                            |
 | **[BossMod](https://github.com/awgil/ffxiv_bossmod)**        | 战斗模块（自行[获取源码](https://github.com/Yarukon/ffxiv_bossmod)编译） | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon)                 | √    | -                                                            |
 | [BossMod](https://github.com/awgil/ffxiv_bossmod)            | 战斗模块（前往[维护仓库](https://github.com/44451516/ffxiv_bossmod)获取） | [awgil](https://github.com/awgil)               | [44451516](https://github.com/44451516/ffxiv_bossmod) | -    | -                                                            |
 
@@ -160,26 +159,3 @@
 | 未提供源码                            | 使用[ILSPY](https://github.com/icsharpcode/ILSpy)逆向生成C#源码导出并手动完善修复 | 找插件开发者py源码                                           |
 | ...                                   |                                                              |                                                              |
 
-## 耻辱墙 Wall of Shame
-
-出于保护个人隐私，暂做模糊处理，若持续侵权将逐步解密，若有疑惑，欢迎Email或Issue申诉
-
-### XPJ
-
-- 陆行鸟 宇宙和音 芒椰███冻冻
-- QQ 745370896
-- Phone 157████0334
-
-- 中山大学
-
-- 重庆 万州 █████
-
-- **编译倒卖本仓库一系列插件 在咸鱼使用多个账号上架**
-
-### 千响/Hibiki
-
-- 陆行鸟 ?? ??
-- QQ 2327635737
-- Phone 199████9798
-- 山东省 临沂市 兰山区 金雀山街道沂蒙路███号█████
-- **二次倒卖XPJ编译倒卖的本仓库一系列插件 在咸鱼上架**
