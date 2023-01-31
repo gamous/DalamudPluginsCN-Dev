@@ -2,8 +2,8 @@
   {
     "Author": "秋水, 汐ベMoon, gamous, 逆光, 玖祁, 牙刷play",
     "Name": "Auto Action",
-    "Punchline": "Teach you how to perform better in combat! -- gamous",
-    "Description": "本插件开源免费!如经过付费渠道获取本插件,请找你付费的渠道更新它维护的版本,本仓库维护的版本不接受任何付费渠道获取!\n如果有不好用的地方或者循环不合理，或者某职业需要添加选项，请及时联系，谢谢！",
+    "Punchline": "本仓库暂时停止该插件支持，请改用描述中的链接订阅",
+    "Description": "官方订阅链接 https://github.com/moewcorp/AutoAction/blob/main/pluginmaster_CN.json",
     "Tags": ["Attack"],
     "CategoryTags": ["jobs"],
     "IsHide": false,
@@ -15,13 +15,10 @@
     "DalamudApiLevel": 7,
     "DownloadCount": 1024,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_CN.zip",
-    "DownloadLinkUpdate": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_CN.zip",
-    "DownloadLinkTesting": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_CN.zip",
+    "DownloadLinkInstall": "http://localhost",
+    "DownloadLinkUpdate": "http://localhost",
+    "DownloadLinkTesting": "http://localhost",
     "LoadPriority": 0,
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/moewcorp/AutoAction/main/gifs/ExampleDNC.gif"
-    ],
     "IconUrl": "https://raw.githubusercontent.com/moewcorp/AutoAction/main/XIVAutoAttackIcon.png"
   },
   {
