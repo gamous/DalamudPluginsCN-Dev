@@ -1,27 +1,5 @@
 [
   {
-    "Author": "秋水, 汐ベMoon, gamous, 逆光, 玖祁, 牙刷play",
-    "Name": "Auto Action",
-    "Punchline": "本仓库暂时停止该插件支持，请改用描述中的链接订阅",
-    "Description": "官方订阅链接 https://github.com/moewcorp/AutoAction/blob/main/pluginmaster_CN.json",
-    "Tags": ["Attack"],
-    "CategoryTags": ["jobs"],
-    "IsHide": false,
-    "InternalName": "AutoAction_CN",
-    "AssemblyVersion": "0.11.0.3",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/moewcorp/AutoAction",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 7,
-    "DownloadCount": 1024,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "http://localhost",
-    "DownloadLinkUpdate": "http://localhost",
-    "DownloadLinkTesting": "http://localhost",
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/moewcorp/AutoAction/main/XIVAutoAttackIcon.png"
-  },
-  {
     "Author": "Det",
     "Name": "Auto Hook",
     "InternalName": "AutoHook",
