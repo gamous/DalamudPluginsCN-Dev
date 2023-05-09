@@ -76,26 +76,6 @@
     "LastUpdated": "1662970852"
   },
   {
-    "Author": "LittleNightmare",
-    "Name": "SunderingWorld",
-    "Punchline": "[beta]处理国区服务器问题",
-    "Description": "[beta]这是一个提供兼容性的插件\n这个插件用来解决其他插件无法正常检查服务器列表的问题\n此插件会修改一些数据，需要重启游戏恢复",
-    "InternalName": "SunderingWorld",
-    "AssemblyVersion": "0.0.0.7",
-    "DalamudApiLevel": 7,
-    "RepoUrl": "https://github.com/LittleNightmare/SunderingWorld",
-    "ApplicableVersion": "any",
-    "Tags": [],
-    "Changelog": "- 0.0.0.3: 增加版本检查，防止跨大区开启时，插件仍然启动",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 1661977481,
-    "DownloadCount": 30,
-    "DownloadLinkInstall": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip",
-    "DownloadLinkTesting": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip",
-    "DownloadLinkUpdate": "https://github.com/LittleNightmare/SunderingWorld/releases/latest/download/SunderingWorld.zip"
-  },
-  {
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
     "InternalName": "BDTHPlugin",
