@@ -1,5 +1,28 @@
 [
   {
+    "Author": "akira0245",
+    "Name": "Radar(a08381)",
+    "InternalName": "Radar",
+    "AssemblyVersion": "2.0.3.1",
+    "Description": "在屏幕和游戏地图上显示游戏实体的位置。\nDisplays game objects location on screen and map.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "overlay",
+        "hunt",
+        "akira"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
+    "Punchline": "Displays game objects location on screen and map.",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/a08381/akira0245_Radar/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/a08381/akira0245_Radar/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/a08381/akira0245_Radar/main/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdated": "0"
+  },
+  {
     "Author": "yomishino",
     "Name": "ActionEffectRange",
     "InternalName": "ActionEffectRange",
@@ -17,25 +40,6 @@
     "DownloadLinkInstall": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/gamous/FFXIVActionEffectRange/releases/latest/download/latest.zip"
-  },
-  {
-    "Author": "Eternita",
-    "Name": "Mini",
-    "InternalName": "Mini",
-    "AssemblyVersion": "2.0.0.7",
-    "Description": "Additionally can minimize game to tray or create game's tray icon",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Eternita-S/Mini",
-    "Tags": null,
-    "DalamudApiLevel": 7,
-    "LoadPriority": 0,
-    "IconUrl": "",
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "Punchline": "Adds a button and a command to minimize your game into taskbar",
-    "DownloadLinkInstall": "https://github.com/gamous/Mini/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/Mini/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/Mini/releases/latest/download/latest.zip"
   },
   {
     "Author": "gamous",
