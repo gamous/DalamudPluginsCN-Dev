@@ -42,10 +42,10 @@
   {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
-    "Punchline": "国服画家 6.4CN 解限特供 ",
+    "Punchline": "国服画家 6.4CN 解限特供 修复备份bug ",
     "Description": "国服特供SPLX 6.4CN 仅支持在线安装，本地加载有问题请使用库链接更新。",
     "InternalName": "SplatoonX",
-    "AssemblyVersion": "10.3.4.2",
+    "AssemblyVersion": "10.3.4.3",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
