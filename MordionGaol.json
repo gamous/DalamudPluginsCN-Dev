@@ -3,10 +3,10 @@
   {
     "Author": "NightmareXIV,Errer(本地特化)",
     "Name": "Splatoon",
-    "Punchline": "国服画家 6.5CN 解限特供",
-    "Description": "国服特供SPLX 6.5CN 本地加载有问题请使用库链接更新。修复下载问题",
+    "Punchline": "国服画家 6.58CN 解限特供",
+    "Description": "国服特供SPLX 6.58CN 本地加载有问题请使用库链接更新。修复下载问题",
     "InternalName": "SplatoonX",
-    "AssemblyVersion": "10.3.4.4",
+    "AssemblyVersion": "13.5.0.8",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -14,10 +14,10 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/assets/latest.zip",
-    "DownloadLinkTesting": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/assets/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/gamous/DalamudPluginsCN-Dev/raw/main/assets/latest.zip",
-    "DownloadCount": 304413,
+    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.5.0.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.5.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.5.0.8/latest.zip",
+    "DownloadCount": 404172,
     "LastUpdated": "0"
   }
 
