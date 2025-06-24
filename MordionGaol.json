@@ -14,9 +14,9 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.6/latest.zip",
+    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.0/latest.zip",
     "DownloadCount": 251154,
     "LastUpdated": "0"
   }
