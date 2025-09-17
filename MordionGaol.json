@@ -3,22 +3,23 @@
   {
     "Author": "NightmareXIV,Errer(本地特化)",
     "Name": "Splatoon",
-    "Punchline": "国服画家 7.2CN 解限特供，",
-    "Description": "国服特供SPLX 7.2CN ",
+    "Punchline": "国服画家 7.31CN 解限特供，",
+    "Description": "国服特供SPLX 7.31CN ",
     "InternalName": "SplatoonX",
-    "AssemblyVersion": "13.8.1.6",
+    "AssemblyVersion": "13.8.3.0",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "IconUrl": "https://love.puni.sh/resources/splatoon.png",
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.1.0/latest.zip",
-    "DownloadCount": 251154,
+    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.3.0/latest.zip",
+    "DownloadCount": 851154,
     "LastUpdated": "0"
   }
 
 ]
+
